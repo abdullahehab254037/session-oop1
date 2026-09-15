@@ -16,6 +16,12 @@
             //Console.WriteLine((int)Genre.NonFiction); 
             //Console.WriteLine((int)Genre.Science);
             #endregion
+
+            #region question3 
+           //int genreNumber = 1;
+           //Console.WriteLine((Genre)genreNumber);
+
+            #endregion
         }
     }
    
