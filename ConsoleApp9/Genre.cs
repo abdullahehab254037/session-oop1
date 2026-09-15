@@ -6,5 +6,8 @@ namespace ConsoleApp9
 {
     public enum Genre
     {
+        Fiction,
+        NonFiction,
+        Science
     }
 }
