@@ -18,9 +18,14 @@
             #endregion
 
             #region question3 
-           //int genreNumber = 1;
-           //Console.WriteLine((Genre)genreNumber);
+            //int genreNumber = 1;
+            //Console.WriteLine((Genre)genreNumber);
 
+            #endregion
+            #region question4 
+            //string genreText = "Science";
+            //Genre genre = (Genre)Enum.Parse(typeof(Genre), genreText);
+            //Console.WriteLine(genre);
             #endregion
         }
     }
